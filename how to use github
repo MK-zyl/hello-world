@@ -1,1 +1,16 @@
+# github使用说明
+ text
+
+## 上传到github
+
+1. 把文件移动到想要上传的仓库的文件夹中；如图上传到pytorch：
+
+   ![1](./pic/1.png)
+
+2. 打开github desktop，打开相应仓库，填写`summary`并提交：
+
+![2](./pic/2.png)
+
+3. 最后点击`push origin`：
+![3](./pic/3.png)
 
